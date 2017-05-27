@@ -1,5 +1,3 @@
-aaaaa
-
 # training
 
 Hun Kim
